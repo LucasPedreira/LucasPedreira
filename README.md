@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LucasPedreira
 - 👀 I’m interested in learning more and more about anything
-- 🌱 I’m currently learning C #, ASP.NET
+- 🌱 I’m currently learning ASP.NET e NodeJS.
 - 💞️ I’m looking to collaborate on anything that needs assistance
 - 📫 You can find me right here. Tmj!
 
